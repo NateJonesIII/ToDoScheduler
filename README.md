@@ -77,9 +77,4 @@ THEN the saved events persist
 
 ## Creator
 
-<<<<<<< HEAD
 - [Profile](https://github.com/NateJonesIII/ "Nathaniel Jones") - [LinkedIn](https://www.linkedin.com/in/nathaniel-jones/) - [Email](mailto:15nate.jones@gmail.com?subject=Hello "Hello Nate!")
-=======
-
-Link here [https://natejonesiii.github.io/ToDOScheduler/](https://natejonesiii.github.io/ToDoScheduler/)
->>>>>>> 0fac9b55ef34c932998f92e6a7aa58a592778d6d
