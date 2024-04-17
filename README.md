@@ -23,7 +23,7 @@
 
 ## Project Description
 
-The Work Day Scheduler provides a user-friendly interface for managing daily tasks. It features time blocks representing each hour of the standard work day, where users can input their tasks and save them for later reference. The application dynamically updates the time blocks' background color based on the current time, providing a visual indication of past, present, and future tasks.
+The ToDo Scheduler provides a user-friendly interface for managing daily tasks. It features time blocks representing each hour of the standard day, where users can input their tasks and save them for later reference. The application dynamically updates the time blocks' background color based on the current time, providing a visual indication of past, present, and future tasks.
 
 ## Technologies Used
 
