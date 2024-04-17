@@ -19,7 +19,7 @@
 
 ## Link
 
-[Click_Here!]((https://natejonesiii.github.io/ToDoScheduler/))
+[Click_Here!](https://natejonesiii.github.io/ToDoScheduler/)
 
 ## Project Description
 
