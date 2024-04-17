@@ -19,7 +19,7 @@
 
 ## Link
 
-[Click_Here!](https://natejonesiii.github.io/workDayScheduler/)
+[Click_Here!](https://natejonesiii.github.io/ToDOScheduler/)
 
 ## Project Description
 
